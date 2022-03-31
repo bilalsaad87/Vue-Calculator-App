@@ -1,4 +1,5 @@
 # calculator
+vue SPA Calculator
 
 ## Project setup
 ```
